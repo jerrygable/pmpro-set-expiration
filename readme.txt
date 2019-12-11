@@ -1,3 +1,5 @@
+Cloned from https://github.com/strangerstudios/pmpro-set-expiration-dates on 12/11/2019
+
 === Paid Memberships Pro - Set Expiration Dates Add On ===
 Contributors: strangerstudios
 Tags: paid memberships pro, pmpro, memberships, ecommerce, expiration
